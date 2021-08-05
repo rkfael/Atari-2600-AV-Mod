@@ -1,2 +1,3 @@
-# Atari-2600-AV-Mod
-Placa para fazer a modificação de áudio e vídeo no console Atari 2600
+# Projeto e Instalação de Modificação AV Para Atari 2600 (Artigo)
+
+## Artigo em Desenvolvimento... Por Favor Espere! :)
